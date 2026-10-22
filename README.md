@@ -6,7 +6,7 @@ A Python and OpenCV project that detects possible vehicle number-plate regions f
 
 The application highlights detected number-plate regions with green bounding boxes.
 
-![Car Number Plate Detection Demo](screenshot\detection_result.png)
+![Car Number Plate Detection Demo](screenshot/detection_result.png)
 
 ## Features
 
